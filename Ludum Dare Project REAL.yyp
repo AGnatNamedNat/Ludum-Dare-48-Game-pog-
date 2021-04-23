@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},"order":1,},
     {"id":{"name":"bruh","path":"notes/bruh/bruh.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
