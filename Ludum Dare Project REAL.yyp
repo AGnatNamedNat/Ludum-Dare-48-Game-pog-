@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"rDirt","path":"rooms/rDirt/rDirt.yy",},"order":2,},
     {"id":{"name":"oDrill","path":"objects/oDrill/oDrill.yy",},"order":2,},
+    {"id":{"name":"sDrill","path":"sprites/sDrill/sDrill.yy",},"order":6,},
     {"id":{"name":"BG_1","path":"sprites/BG_1/BG_1.yy",},"order":2,},
     {"id":{"name":"oMap","path":"objects/oMap/oMap.yy",},"order":5,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":1,},

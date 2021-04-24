@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-var gridMaxSize = 30;
+var gridMaxSize = 32;
 var newNode;
 var elements = 0.33 * gridMaxSize;
 mapGrid[gridMaxSize][gridMaxSize] = 0;
