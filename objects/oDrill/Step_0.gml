@@ -4,6 +4,7 @@ var rot_constant = 5;
 var maxrot = 70;
 
 
+
 if keyboard_check(ord("A"))
 {
 	image_angle -= rot_constant;
