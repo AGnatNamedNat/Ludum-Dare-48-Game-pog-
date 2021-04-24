@@ -1,11 +1,11 @@
 {
   "resources": [
-    {"id":{"name":"Sprite_Drill_1","path":"sprites/Sprite_Drill_1/Sprite_Drill_1.yy",},"order":4,},
-    {"id":{"name":"Drill","path":"objects/Drill/Drill.yy",},"order":2,},
+    {"id":{"name":"oDrill","path":"objects/oDrill/oDrill.yy",},"order":2,},
     {"id":{"name":"BG_1","path":"sprites/BG_1/BG_1.yy",},"order":2,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Sprite_Drill","path":"sprites/Sprite_Drill/Sprite_Drill.yy",},"order":3,},
+    {"id":{"name":"oInit","path":"objects/oInit/oInit.yy",},"order":3,},
     {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
