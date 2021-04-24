@@ -1,7 +1,5 @@
 {
-  "resources": [
-    {"id":{"name":"bruh","path":"notes/bruh/bruh.yy",},"order":0,},
-  ],
+  "resources": [],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
