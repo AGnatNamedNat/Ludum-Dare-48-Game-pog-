@@ -1,10 +1,16 @@
 {
   "resources": [
+    {"id":{"name":"Sprite_Drill_1","path":"sprites/Sprite_Drill_1/Sprite_Drill_1.yy",},"order":17,},
+    {"id":{"name":"Drill","path":"objects/Drill/Drill.yy",},"order":1,},
+    {"id":{"name":"BG_1","path":"sprites/BG_1/BG_1.yy",},"order":16,},
+    {"id":{"name":"Drill_1","path":"objects/Drill_1/Drill_1.yy",},"order":4,},
     {"id":{"name":"oCol","path":"objects/oCol/oCol.yy",},"order":1,},
+    {"id":{"name":"DrillRoom","path":"rooms/DrillRoom/DrillRoom.yy",},"order":3,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
-    {"id":{"name":"sCol_1","path":"sprites/sCol_1/sCol_1.yy",},"order":2,},
+    {"id":{"name":"Sprite_Drill","path":"sprites/Sprite_Drill/Sprite_Drill.yy",},"order":15,},
     {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":2,},
     {"id":{"name":"rCavern","path":"rooms/rCavern/rCavern.yy",},"order":0,},
   ],
   "Options": [
@@ -22,6 +28,8 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rCavern","path":"rooms/rCavern/rCavern.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"DrillRoom","path":"rooms/DrillRoom/DrillRoom.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
