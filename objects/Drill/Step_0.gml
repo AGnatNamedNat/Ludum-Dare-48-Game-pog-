@@ -13,4 +13,4 @@ if keyboard_check(ord("S"))
 	}
 }
 
-y -= vrt_speed;
+y += vrt_speed;

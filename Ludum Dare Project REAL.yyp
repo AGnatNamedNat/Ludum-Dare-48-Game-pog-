@@ -8,7 +8,7 @@
     {"id":{"name":"Sprite_Drill","path":"sprites/Sprite_Drill/Sprite_Drill.yy",},"order":3,},
     {"id":{"name":"sCol","path":"sprites/sCol/sCol.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":2,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
     {"id":{"name":"rCavern","path":"rooms/rCavern/rCavern.yy",},"order":0,},
   ],
   "Options": [
