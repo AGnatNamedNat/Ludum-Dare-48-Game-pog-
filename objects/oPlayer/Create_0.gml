@@ -3,5 +3,5 @@
 hascontrol = true;
 vsp = 0;
 hsp = 0;
-grv = 0.4;
+grv = 1;
 walksp = 4;
